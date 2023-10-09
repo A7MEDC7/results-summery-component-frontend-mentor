@@ -14,3 +14,7 @@ This project is a front-end implementation of a results summary component. It di
 
 ### Preview
 
+![Image downloaded from frontendmentor.com](/design/desktop-preview.jpg)
+![Image downloaded from frontendmentor.com](/design/desktop-design.jpg)
+![Image downloaded from frontendmentor.com](/design/active-states.jpg)
+![Image downloaded from frontendmentor.com](/design/mobile-design.jpg)
