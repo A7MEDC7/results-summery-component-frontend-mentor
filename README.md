@@ -28,8 +28,7 @@ This project is a front-end implementation of a results summary component. It di
 ### Installation
 
 1. Clone the repository:
-``` git clone https://github.com/A7MEDC7/results-summary-component.git
-```
+```git clone https://github.com/A7MEDC7/results-summary-component.git```
 
 1. Open the index.html file in your web browser.
 
